@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt" 
-	"Strings"
+	"strings"
 )
 
 func main(){
